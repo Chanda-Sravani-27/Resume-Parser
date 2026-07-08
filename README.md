@@ -1,6 +1,12 @@
-# 📄 Resume Parser
+## Screenshots
 
-A simple Resume Parser built using Python and Streamlit that extracts key information from PDF resumes.
+### Home Page
+
+![Home](assets/home.png)
+
+### Extracted Resume Details
+
+![Details](assets/details.png)
 
 ## Features
 
